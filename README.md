@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Javascript, React and Typescript.
-- 🤔 I’m looking for the western passage.
+- 🔭 I’m currently working on Javascript and React.
 - 💬 Ask me about Thinkpads.
 - 🌱 Donate an old laptop so I can fit an SSD/clean fan/apply new thermal paste to the CPU and provide a future programmer with a laptop.
 
